@@ -3,17 +3,6 @@ A game created in 24h on UniqueHackday 2018.
 
 ![1.png](https://i.loli.net/2018/06/04/5b14abc245163.png)
 
-
-
-**Team 14** Pressents
-
-Members:
- - Programm:
- WanXuanjun ZhaoSizhe SuZhixiang 
- - Engineer:
- LuDan
- - Artist:
- ZhuLi
 ## GamePLay
 
  - Two players on one desktop(Remind you of childhood memories)
@@ -36,4 +25,32 @@ Members:
  The attacking judgement isn't quite accurate yet.
  
  We will try to develop it later after **Final Examination**(It's drawing near!!!)
+ 
+## About
+
+**Team 14** Pressents
+
+Members:
+ - Programm:
+ 
+ WanXuanjun ZhaoSizhe SuZhixiang 
+ 
+ - Engineer:
+ 
+ LuDan
+ 
+ - Artist:
+ 
+ ZhuLi
+ 
+ 
+ ## SoundTrack&&Effects Source
+ 'Cause the time limit and condition limit,We didn't compose our own music.
+ 
+ We may create music later.
+ 
+ Thanks to those sound sources:
+ - Undertale
+ - Rhythm Doctor
+ - RGSS XP
  
