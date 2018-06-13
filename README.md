@@ -14,6 +14,12 @@ A game created in 24h on UniqueHackday 2018.
  - Dogge the bullets from enemies and avoid to crash on the directly.
 ![4.png](https://i.loli.net/2018/06/04/5b14abc16ccd3.png)
 ## Versions
+ - Alpha 0.1.1 2018.6.13
+ 
+ Attack deviation fixed
+ 
+ UI in battle won't shift through camera shake
+ 
  - Alpha 0.1 2018.6.3
  
  It's still on demo stage.
